@@ -1,4 +1,4 @@
-<h1>Material Design One Page HTML Template</h1>
+<h1>Material Design One Page HTML Possible Template for CP202 Assignment 5</h1>
 <p>MD One page template is fully responsive and free to use. This HTML template is based on <a href="http://materializecss.com/" target="_blank">Materialize</a>, a CSS Framework based on Material Design.</p>
 <a href="http://rhildred.github.io/CP202Assignment5" target="_blank">View Demo</a>
 <br/>
