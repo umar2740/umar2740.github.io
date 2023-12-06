@@ -1,0 +1,76 @@
+nav ul a {
+    font-size: 1.2rem;
+    color: black;
+    letter-spacing: 2px;
+    display: block;
+    font-weight: 300;
+    padding: 0px 15px;
+}
+
+#index-banner {
+    background-color: rgb(185, 200, 255);
+}
+span
+{
+    color: black;
+}
+#intro {
+    background-color: rgb(143, 157, 210);
+}
+#contact {
+    background-color: orangered
+}
+.center.header.text_h2, .span_h2 {
+    color: black
+}
+.promo-example i {
+    filter: brightness(0) invert(1);
+}
+.header.text_b{
+    color: black;
+}
+#about {
+    background-color: rgb(185, 200, 255);
+}
+.brand-logo {
+    color: black;
+}
+#nav_f {
+    background-color: yellow;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+#work {
+    background-color: rgb(143, 157, 210);
+}
+h2{
+    font-size: x-large;
+}
+h2{
+    font-weight:200;
+}
+p2 {
+    font-size: large;
+    padding: 20px;
+    margin: auto;
+    display: block;
+    width: 80%;
+}
+p2 {
+    padding-top: 65px;
+    padding-bottom: 65px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+h3 {
+    text-align: center;
+}
+.default_color {
+    background-color: rgb(169, 169, 169) !important;
+}
+.GMP1.png{
+    padding-top: 65px;
+    padding-bottom: 65px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
